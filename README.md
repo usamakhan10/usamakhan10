@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @usamakhan10
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python.
 
 - 📫 You can approach me at usamabap@gmail.com
